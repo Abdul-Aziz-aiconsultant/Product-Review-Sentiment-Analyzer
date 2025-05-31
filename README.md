@@ -16,9 +16,15 @@ Built with Python, pandas, NLTK, TextBlob, and Streamlit for a user-friendly web
 - Performs sentiment analysis on aspects
 - Interactive Streamlit UI for users to upload reviews and view sentiment results
 
-## Installation
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/YourUsername/Product-Review-Sentiment-Analyzer.git
-   cd Product-Review-Sentiment-Analyzer
+Usage
+Upload a CSV file containing product reviews.
+The app cleans the reviews, extracts aspects, and displays sentiment scores.
+View sentiment summary and detailed results in the UI.
+
+Technologies Used
+Python
+pandas
+NLTK (Natural Language Toolkit)
+TextBlob
+Streamlit
