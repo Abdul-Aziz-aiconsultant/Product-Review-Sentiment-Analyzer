@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 # Product Review Sentiment Analyzer
 
-##This project analyzes customer reviews and identifies sentiment for each product aspect.
+## This project analyzes customer reviews and identifies sentiment for each product aspect.
 =======
 
 
@@ -17,27 +17,15 @@ Built with Python, pandas, NLTK, TextBlob, and Streamlit for a user-friendly web
 - Interactive Streamlit UI for users to upload reviews and view sentiment results
 
 
-
-Usage
-
-
-Upload a CSV file containing product reviews.
-
-The app cleans the reviews, extracts aspects, and displays sentiment scores.
-
-View sentiment summary and detailed results in the UI.
+## Usage
+- Upload a CSV file containing product reviews.
+- The app cleans the reviews, extracts aspects, and displays sentiment scores.
+- View sentiment summary and detailed results in the UI.
 
 
-
-Technologies Used
-
-
-Python
-
-pandas
-
-NLTK (Natural Language Toolkit)
-
-TextBlob
-
-Streamlit
+## Technologies Used
+- Python
+- pandas
+- NLTK (Natural Language Toolkit)
+- extBlob
+  Streamlit
