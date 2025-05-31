@@ -1,0 +1,7 @@
+product,review,cleaned_review,aspects
+Phone,The battery life is great but the screen is dull.,battery life great screen dull,"['battery', 'life', 'dull']"
+Phone,"Amazing display, but it heats up quickly.",amazing display heats quickly,"['display', 'heats']"
+Laptop,"Fast performance, but poor battery backup.",fast performance poor battery backup,"['performance', 'battery', 'backup']"
+Laptop,Good build quality and excellent keyboard.,good build quality excellent keyboard,"['build', 'quality', 'keyboard']"
+Headphones,"Excellent sound quality, but a bit overpriced.",excellent sound quality bit overpriced,"['sound', 'quality', 'bit']"
+Headphones,"Comfortable to wear, noise cancellation is average.",comfortable wear noise cancellation average,"['noise', 'cancellation', 'average']"
