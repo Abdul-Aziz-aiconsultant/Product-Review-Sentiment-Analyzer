@@ -1,9 +1,9 @@
 <<<<<<< HEAD
 # Product Review Sentiment Analyzer
 
-This project analyzes customer reviews and identifies sentiment for each product aspect.
+##This project analyzes customer reviews and identifies sentiment for each product aspect.
 =======
-# Product Review Sentiment Analyzer
+
 
 ## Overview
 This project analyzes product reviews to determine customer sentiments using Natural Language Processing (NLP). It preprocesses review text, extracts key aspects, and classifies sentiments as positive, negative, or neutral.
